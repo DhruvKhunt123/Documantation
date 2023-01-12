@@ -20,9 +20,6 @@
 # Avoid making Useless objects and variables as it occupies more memory.
 
  
-# Use interface instead of abstract classes as it specifies the behaviour of the object.
-
- 
 # Follow MVC pattern as it seperates UI from business logic.
 
  
