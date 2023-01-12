@@ -16,6 +16,7 @@
 7.  Make sure that you Commit after modifying/testing your code
 
 8. classes name start with capital letter and function name start with small letter.
+   All the constants should be in capital letters.
 
 9. select requries columns only 
      do not write select * from table all time
