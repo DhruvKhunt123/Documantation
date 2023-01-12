@@ -13,9 +13,10 @@
  
   AS
   
-   sql_statement
+  sql_statement
    
-    GO;
+  GO;
+   
 
  
 # Select requried columns only 
