@@ -9,16 +9,7 @@
 
 # Use storeProcedure instead of queries.
 
- CREATE PROCEDURE procedure_name
- 
-  AS
-  
-  sql_statement
-   
-  GO;
-   
 
- 
 # Select requried columns only 
      do not write select * from table all time
 
