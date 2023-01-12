@@ -1,9 +1,7 @@
      GROUP- B
 
 
-1. Basic knowledge of libraries.
-
-   ex. java standard librares.
+1. use storeProcedure instead of queries.
 
 2. Avoid making Useless objects and variables as it occupies more memory.
 
@@ -11,8 +9,7 @@
 
 4. Follow MVC pattern as it seperates UI from business logic.
 
-5. Your project should follow perticular model.
-    Ex. 1-Waterfall model, 2- Agile model
+5 define datatype as requried like int16,int32,int64,bigint,varchar(32),nvarchar(64),
     
 6. Your code should be understandable by others , thus use proper comments where-ever required, use meaning full variables.
 
@@ -22,4 +19,10 @@
 
 9. classes name start with capital letter and function name start with small letter.
 
+10. select requries columns only 
+     do not write select * from table all time
+     
+11. define datatype as requried like int16,int32,int64,bigint,varchar(32),nvarchar(64),
 
+12. Your project should follow perticular model.
+    Ex. 1-Waterfall model, 2- Agile model
